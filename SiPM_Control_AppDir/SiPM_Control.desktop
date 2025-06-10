@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=SiPM Control
-Comment=Control the SiPM Power Supply for the UCNtau experiment!
-Exec=SiPM_Control
-Icon=SiPM_Control
-Categories=Science;
