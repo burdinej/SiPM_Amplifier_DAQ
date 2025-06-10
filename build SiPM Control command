@@ -1,0 +1,2 @@
+./linuxdeployqt-7-x86_64.AppImage Desktop/SiPM_Control_GUI/SiPM_Control_AppDir/usr/share/applications/SiPM_Control.desktop -extra-plugins=iconengines,platformthemes/libappmenu-qt5.so -appimage -bundle-non-qt-libs -no-translations -always-overwrite
+
