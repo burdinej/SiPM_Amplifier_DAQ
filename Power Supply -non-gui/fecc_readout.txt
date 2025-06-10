@@ -1,0 +1,517 @@
+daq@daq-OptiPlex-745:~/Desktop/Josh - SiPM Power Board Files$ ./feccWrite open successful
+Read open successful
+iter 0
+got 13, total 13
+  at 0 76 L
+  at 1 105 i
+  at 2 110 n
+  at 3 107 k
+  at 4 85 U
+  at 5 83 S
+  at 6 66 B
+  at 7 32  
+  at 8 86 V
+  at 9 49 1
+  at 10 46 .
+  at 11 54 6
+  at 12 10 
+
+iter 1
+got 1, total 14
+  at 0 10 
+
+iter 2
+got 13, total 27
+  at 0 76 L
+  at 1 105 i
+  at 2 110 n
+  at 3 107 k
+  at 4 85 U
+  at 5 83 S
+  at 6 66 B
+  at 7 32  
+  at 8 86 V
+  at 9 49 1
+  at 10 46 .
+  at 11 54 6
+  at 12 10 
+
+iter 3
+got 1, total 28
+  at 0 10 
+
+iter 4
+got 9, total 37
+  at 0 63 ?
+  at 1 8 
+  at 2 63 ?
+  at 3 8 
+  at 4 63 ?
+  at 5 63 ?
+  at 6 104 h
+  at 7 78 N
+  at 8 10 
+
+iter 5
+got 16, total 53
+  at 0 84 T
+  at 1 82 R
+  at 2 63 ?
+  at 3 76 L
+  at 4 105 i
+  at 5 110 n
+  at 6 107 k
+  at 7 85 U
+  at 8 83 S
+  at 9 66 B
+  at 10 32  
+  at 11 86 V
+  at 12 49 1
+  at 13 46 .
+  at 14 54 6
+  at 15 10 
+
+iter 6
+got 1, total 54
+  at 0 10 
+
+iter 7
+got 2, total 56
+  at 0 32  
+  at 1 10 
+
+iter 8
+got 1, total 57
+  at 0 10 
+
+iter 9
+got 34, total 91
+  at 0 76 L
+  at 1 105 i
+  at 2 110 n
+  at 3 107 k
+  at 4 85 U
+  at 5 83 S
+  at 6 66 B
+  at 7 32  
+  at 8 83 S
+  at 9 105 i
+  at 10 110 n
+  at 11 103 g
+  at 12 108 l
+  at 13 101 e
+  at 14 32  
+  at 15 67 C
+  at 16 104 h
+  at 17 97 a
+  at 18 114 r
+  at 19 97 a
+  at 20 99 c
+  at 21 116 t
+  at 22 101 e
+  at 23 114 r
+  at 24 32  
+  at 25 67 C
+  at 26 111 o
+  at 27 109 m
+  at 28 109 m
+  at 29 97 a
+  at 30 110 n
+  at 31 100 d
+  at 32 115 s
+  at 33 10 
+
+iter 10
+got 1, total 92
+  at 0 10 
+
+iter 11
+got 1, total 93
+  at 0 10 
+
+iter 12
+got 1, total 94
+  at 0 10 
+
+iter 13
+got 38, total 132
+  at 0 102 f
+  at 1 61 =
+  at 2 70 F
+  at 3 105 i
+  at 4 114 r
+  at 5 115 s
+  at 6 116 t
+  at 7 32  
+  at 8 32  
+  at 9 32  
+  at 10 32  
+  at 11 32  
+  at 12 32  
+  at 13 32  
+  at 14 32  
+  at 15 92 \
+  at 16 61 =
+  at 17 69 E
+  at 18 120 x
+  at 19 112 p
+  at 20 97 a
+  at 21 110 n
+  at 22 100 d
+  at 23 101 e
+  at 24 100 d
+  at 25 32  
+  at 26 67 C
+  at 27 111 o
+  at 28 109 m
+  at 29 109 m
+  at 30 97 a
+  at 31 110 n
+  at 32 100 d
+  at 33 32  
+  at 34 83 S
+  at 35 101 e
+  at 36 116 t
+  at 37 10 
+
+iter 14
+got 1, total 133
+  at 0 10 
+
+iter 15
+got 7, total 140
+  at 0 110 n
+  at 1 61 =
+  at 2 78 N
+  at 3 101 e
+  at 4 120 x
+  at 5 116 t
+  at 6 10 
+
+iter 16
+got 1, total 141
+  at 0 10 
+
+iter 17
+got 23, total 164
+  at 0 114 r
+  at 1 61 =
+  at 2 82 R
+  at 3 101 e
+  at 4 115 s
+  at 5 101 e
+  at 6 116 t
+  at 7 32  
+  at 8 32  
+  at 9 32  
+  at 10 32  
+  at 11 32  
+  at 12 32  
+  at 13 32  
+  at 14 32  
+  at 15 108 l
+  at 16 61 =
+  at 17 76 L
+  at 18 101 e
+  at 19 118 v
+  at 20 101 e
+  at 21 108 l
+  at 22 10 
+
+iter 18
+got 1, total 165
+  at 0 10 
+
+iter 19
+got 9, total 174
+  at 0 40 (
+  at 1 61 =
+  at 2 69 E
+  at 3 120 x
+  at 4 116 t
+  at 5 101 e
+  at 6 110 n
+  at 7 100 d
+  at 8 10 
+
+iter 20
+got 1, total 175
+  at 0 10 
+
+iter 21
+got 23, total 198
+  at 0 98 b
+  at 1 61 =
+  at 2 66 B
+  at 3 121 y
+  at 4 116 t
+  at 5 40 (
+  at 6 78 N
+  at 7 78 N
+  at 8 43 +
+  at 9 41 )
+  at 10 32  
+  at 11 32  
+  at 12 32  
+  at 13 32  
+  at 14 32  
+  at 15 94 ^
+  at 16 61 =
+  at 17 53 5
+  at 18 55 7
+  at 19 54 6
+  at 20 48 0
+  at 21 48 0
+  at 22 10 
+
+iter 22
+got 1, total 199
+  at 0 10 
+
+iter 23
+got 23, total 222
+  at 0 106 j
+  at 1 61 =
+  at 2 66 B
+  at 3 105 i
+  at 4 116 t
+  at 5 40 (
+  at 6 78 N
+  at 7 43 +
+  at 8 41 )
+  at 9 32  
+  at 10 32  
+  at 11 32  
+  at 12 32  
+  at 13 32  
+  at 14 32  
+  at 15 96 `
+  at 16 61 =
+  at 17 51 3
+  at 18 56 8
+  at 19 52 4
+  at 20 48 0
+  at 21 48 0
+  at 22 10 
+
+iter 24
+got 1, total 223
+  at 0 10 
+
+iter 25
+got 23, total 246
+  at 0 112 p
+  at 1 61 =
+  at 2 66 B
+  at 3 121 y
+  at 4 116 t
+  at 5 87 W
+  at 6 47 /
+  at 7 80 P
+  at 8 32  
+  at 9 32  
+  at 10 32  
+  at 11 32  
+  at 12 32  
+  at 13 32  
+  at 14 32  
+  at 15 44 ,
+  at 16 61 =
+  at 17 49 1
+  at 18 57 9
+  at 19 50 2
+  at 20 48 0
+  at 21 48 0
+  at 22 10 
+
+iter 26
+got 1, total 247
+  at 0 10 
+
+iter 27
+got 23, total 270
+  at 0 126 ~
+  at 1 61 =
+  at 2 66 B
+  at 3 105 i
+  at 4 116 t
+  at 5 87 W
+  at 6 47 /
+  at 7 80 P
+  at 8 32  
+  at 9 32  
+  at 10 32  
+  at 11 32  
+  at 12 32  
+  at 13 32  
+  at 14 32  
+  at 15 120 x
+  at 16 61 =
+  at 17 66 B
+  at 18 117 u
+  at 19 115 s
+  at 20 76 L
+  at 21 111 o
+  at 22 10 
+
+iter 28
+got 1, total 271
+  at 0 10 
+
+iter 29
+got 22, total 293
+  at 0 100 d
+  at 1 61 =
+  at 2 65 A
+  at 3 117 u
+  at 4 120 x
+  at 5 43 +
+  at 6 32  
+  at 7 32  
+  at 8 32  
+  at 9 32  
+  at 10 32  
+  at 11 32  
+  at 12 32  
+  at 13 32  
+  at 14 32  
+  at 15 36 $
+  at 16 61 =
+  at 17 83 S
+  at 18 99 c
+  at 19 97 a
+  at 20 110 n
+  at 21 10 
+
+iter 30
+got 1, total 294
+  at 0 10 
+
+iter 31
+got 22, total 316
+  at 0 122 z
+  at 1 61 =
+  at 2 65 A
+  at 3 117 u
+  at 4 120 x
+  at 5 45 -
+  at 6 32  
+  at 7 32  
+  at 8 32  
+  at 9 32  
+  at 10 32  
+  at 11 32  
+  at 12 32  
+  at 13 32  
+  at 14 32  
+  at 15 42 *
+  at 16 61 =
+  at 17 76 L
+  at 18 105 i
+  at 19 115 s
+  at 20 116 t
+  at 21 10 
+
+iter 32
+got 1, total 317
+  at 0 10 
+
+iter 33
+got 22, total 339
+  at 0 38 &
+  at 1 61 =
+  at 2 65 A
+  at 3 117 u
+  at 4 120 x
+  at 5 63 ?
+  at 6 32  
+  at 7 32  
+  at 8 32  
+  at 9 32  
+  at 10 32  
+  at 11 32  
+  at 12 32  
+  at 13 32  
+  at 14 32  
+  at 15 104 h
+  at 16 61 =
+  at 17 72 H
+  at 18 101 e
+  at 19 108 l
+  at 20 112 p
+  at 21 10 
+
+iter 34
+got 1, total 340
+  at 0 10 
+
+iter 35
+got 14, total 354
+  at 0 116 t
+  at 1 61 =
+  at 2 83 S
+  at 3 101 e
+  at 4 97 a
+  at 5 114 r
+  at 6 99 c
+  at 7 104 h
+  at 8 32  
+  at 9 84 T
+  at 10 121 y
+  at 11 112 p
+  at 12 101 e
+  at 13 10 
+
+iter 36
+got 1, total 355
+  at 0 10 
+
+iter 37
+got 1, total 356
+  at 0 10 
+
+iter 38
+got 11, total 367
+  at 0 63 ?
+  at 1 63 ?
+  at 2 63 ?
+  at 3 63 ?
+  at 4 63 ?
+  at 5 -33 �
+  at 6 -33 �
+  at 7 63 ?
+  at 8 63 ?
+  at 9 49 1
+  at 10 10 
+
+iter 39
+iter 40
+iter 41
+iter 42
+iter 43
+iter 44
+iter 45
+iter 46
+iter 47
+iter 48
+iter 49
+iter 50
+iter 51
+iter 52
+iter 53
+iter 54
+iter 55
+iter 56
+iter 57
+iter 58
+iter 59
+iter 60
+iter 61
+iter 62
+iter 63
+iter 64
+iter 65
+iter 66
+read timeout
+ERROR: LinkUSB ID check failed, got 
+

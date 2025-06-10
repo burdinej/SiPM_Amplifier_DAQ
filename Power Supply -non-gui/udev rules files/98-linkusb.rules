@@ -1,0 +1,5 @@
+ACTION=="add" \
+, SUBSYSTEMS=="usb" \
+, ATTRS{idProduct}=="6001" \
+, ATTRS{idVendor}=="0403" \
+, RUN+="/bin/stty -F /dev/ttyUSB0 speed 9600 cs8 -parenb -cstopb crtscts sane raw -hup ignbrk -onlcr -iexten -echo -echoe -echok -echoctl -echoke"
